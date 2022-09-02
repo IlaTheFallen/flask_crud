@@ -1,0 +1,10 @@
+Flask
+flask_cors
+flask_pymongo
+python-dotenv
+dnspython
+werkzeug
+flask-session
+pytz
+requests
+pandas
